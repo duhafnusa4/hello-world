@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join the UAW Union</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #0047ab;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.5em;
+            color: #0057e7;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+        img {
+            width: 200px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg" alt="Micronesian Flag">
+    <h1>Kihpene ohla! Pihsail kan UAW!</h1>
+    <p onclick="window.location.href='https://uaw.org'">Join the UAW Union!</p>
+</body>
+</html>
